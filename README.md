@@ -4,5 +4,5 @@ The aim of this is learn about sorting algorithms (bubble sort, insertion sort, 
 
 |Files| Description|
 |:------|:-----------:|
-
+|0-bubble_sort.c|    |
 
